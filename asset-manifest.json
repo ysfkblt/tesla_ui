@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/teslauiclone/static/css/main.27d9a3e0.css",
-    "main.js": "/teslauiclone/static/js/main.7f47d61c.js",
-    "static/media/Desktop-SolarRoof.jpeg": "/teslauiclone/static/media/Desktop-SolarRoof.9eb2e602adaeba8e4715.jpeg",
-    "static/media/Desktop-SolarPanels.jpeg": "/teslauiclone/static/media/Desktop-SolarPanels.d7d441d74e34d37c2c00.jpeg",
-    "static/media/Desktop-ModelX.jpeg": "/teslauiclone/static/media/Desktop-ModelX.834173034c452839cba0.jpeg",
-    "static/media/Desktop-ModelS.jpeg": "/teslauiclone/static/media/Desktop-ModelS.e3d22a07aa3fe0fa6e75.jpeg",
-    "static/media/Desktop-ModelY.jpeg": "/teslauiclone/static/media/Desktop-ModelY.30acb76aab6f760a753a.jpeg",
-    "static/media/Desktop-Model3.jpeg": "/teslauiclone/static/media/Desktop-Model3.30651f796c26e128fa1b.jpeg",
-    "static/media/Desktop-Accessories.jpg": "/teslauiclone/static/media/Desktop-Accessories.027ada94d343f5d81f6d.jpg",
-    "index.html": "/teslauiclone/index.html",
-    "main.27d9a3e0.css.map": "/teslauiclone/static/css/main.27d9a3e0.css.map",
-    "main.7f47d61c.js.map": "/teslauiclone/static/js/main.7f47d61c.js.map"
+    "main.css": "/tesla_ui/static/css/main.27d9a3e0.css",
+    "main.js": "/tesla_ui/static/js/main.fe25caa4.js",
+    "static/media/Desktop-SolarRoof.jpeg": "/tesla_ui/static/media/Desktop-SolarRoof.9eb2e602adaeba8e4715.jpeg",
+    "static/media/Desktop-SolarPanels.jpeg": "/tesla_ui/static/media/Desktop-SolarPanels.d7d441d74e34d37c2c00.jpeg",
+    "static/media/Desktop-ModelX.jpeg": "/tesla_ui/static/media/Desktop-ModelX.834173034c452839cba0.jpeg",
+    "static/media/Desktop-ModelS.jpeg": "/tesla_ui/static/media/Desktop-ModelS.e3d22a07aa3fe0fa6e75.jpeg",
+    "static/media/Desktop-ModelY.jpeg": "/tesla_ui/static/media/Desktop-ModelY.30acb76aab6f760a753a.jpeg",
+    "static/media/Desktop-Model3.jpeg": "/tesla_ui/static/media/Desktop-Model3.30651f796c26e128fa1b.jpeg",
+    "static/media/Desktop-Accessories.jpg": "/tesla_ui/static/media/Desktop-Accessories.027ada94d343f5d81f6d.jpg",
+    "index.html": "/tesla_ui/index.html",
+    "main.27d9a3e0.css.map": "/tesla_ui/static/css/main.27d9a3e0.css.map",
+    "main.fe25caa4.js.map": "/tesla_ui/static/js/main.fe25caa4.js.map"
   },
   "entrypoints": [
     "static/css/main.27d9a3e0.css",
-    "static/js/main.7f47d61c.js"
+    "static/js/main.fe25caa4.js"
   ]
 }
