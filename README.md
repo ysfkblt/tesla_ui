@@ -16,7 +16,8 @@
 
 Multiple CSS tech is used for study/learning purposes. 
 
-![teslauiss](https://user-images.githubusercontent.com/80647654/168070711-42b760e3-f9bd-477d-98e6-38aa38c24964.png)
+![ss_responsive](https://user-images.githubusercontent.com/80647654/168297265-8261e188-5a60-4720-a840-d8470d2cdeff.png)
+
 
 
 <br>
