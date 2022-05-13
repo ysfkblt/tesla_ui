@@ -14,7 +14,7 @@
 
 ### - [CSS BEM](https://en.bem.info/) 
 
-Used multiple CSS tech for study-learning purposes. 
+Multiple CSS tech is used for study/learning purposes. 
 
 ![teslauiss](https://user-images.githubusercontent.com/80647654/168070711-42b760e3-f9bd-477d-98e6-38aa38c24964.png)
 
